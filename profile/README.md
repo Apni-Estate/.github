@@ -11,10 +11,6 @@ Apni Estate has some objectives which are stated below:
 - Renting houses for a considerable amount.
 - Legal services for property owners.
 
-- [GitHub CLI](https://github.com/cli/cli) - A command line tool for GitHub
-- [Git Large File Storage](https://github.com/git-lfs/git-lfs) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
-
 ### 👓 Contact Us
  - Apni Estate - contact@apniestate.com
  - Support - support@apniestate.com
